@@ -5,7 +5,7 @@ This repo contains configurations for the remote container plugin for vs code.
 The following configurations are included:
   - Node image
   - One Dark Pro theme
-  - Oh-my-zsh shell with spaceship theme
+  - Oh-my-zsh shell
   - Fira Code editor font
   - Material Icons
   - eslint
